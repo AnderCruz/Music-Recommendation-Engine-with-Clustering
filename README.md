@@ -1,8 +1,8 @@
-# 🎧 Music Recommendation Engine with Clustering | Nowa Analytics
+# Music Recommendation Engine with Clustering
 
 This project was developed by the Nowa Analytics consultancy as part of a machine learning pipeline focused on improving a music recommendation system using **PySpark** and **unsupervised learning techniques**.
 
-## 🚀 Project Overview
+## Project Overview
 
 Our client, the platform **Amantes da Música**, currently uses a basic music recommendation system based only on genre. However, the recommendations have not been satisfactory for users.
 
@@ -10,9 +10,9 @@ To enhance this experience, the Nowa Analytics team proposed the use of **cluste
 
 The final deliverable is a function that, given a reference song, returns a playlist of similar tracks — presented with album covers and track names.
 
----
 
-## 🔧 Technologies Used
+
+## Technologies Used
 
 * **Python 3**
 * **Apache Spark (PySpark)**
@@ -21,9 +21,9 @@ The final deliverable is a function that, given a reference song, returns a play
   * Spark MLlib (for Machine Learning)
 * **Plotly** (for data visualization)
 
----
 
-## 📊 Pipeline Steps
+
+## Pipeline Steps
 
 1. **Data Ingestion & Manipulation**
 
@@ -49,9 +49,9 @@ The final deliverable is a function that, given a reference song, returns a play
 
    * Using **Plotly** to visually explore the clusters and music distribution
 
----
 
-## 📁 Folder Structure
+
+## Folder Structure
 
 ```
 📂 music-recommendation
@@ -63,9 +63,9 @@ The final deliverable is a function that, given a reference song, returns a play
 └── README.md
 ```
 
----
 
-## 📌 Key Concepts Learned
+
+## Key Concepts Learned
 
 * Building ML pipelines in PySpark
 * Using **K-means clustering** for recommendations
@@ -73,15 +73,14 @@ The final deliverable is a function that, given a reference song, returns a play
 * Data visualization with **Plotly**
 * Delivering real-world solutions for music-based user engagement
 
----
 
-## 🤝 Contribution
+
+## Contribution
 
 This project is part of the Nowa Analytics lab. Contributions and suggestions are welcome via pull request or issue.
 
----
 
-## 📬 Contact
+## Contact
 
 **Nowa Analytics**
 Data solutions for the real world.
